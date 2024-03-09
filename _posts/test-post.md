@@ -1,8 +1,10 @@
 ---
 title: Test Post
-date: 2024-03-09 12:00:00 -500
-categories: [markdown,web-development]
-tags: [markdown,web-development]
+date: 2024-03-07 12:00:00 -500
+categories: [Markdown,Web_Development]
+tags: [markdown,web_development]
+math: true
+mermaid: true
 ---
 
 # Test Post
@@ -19,9 +21,9 @@ Lorem, ipsum dolor sit amet consectetur adipisicing elit. Incidunt dolorem perfe
 
 ### Unordered
 
-- Item 1
-- Item 2
-- Item 3
+* Item 1
+* Item 2
+* Item 3
 
 ## Subtitle
 
@@ -31,7 +33,7 @@ Lorem ipsum dolor sit amet consectetur adipisicing elit. Iste eaque incidunt eum
 
 Some python code with syntax highlighting:
 
-```py
+```python
 def hello_world():
     print("Hello, World!")
 
@@ -68,4 +70,4 @@ graph TD;
 
 ## Some Images
 
-![A random cat](https://cataas.com/cat)
+![A random cat](https://cataas.com/cat)_a cat image_
