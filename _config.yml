@@ -16,7 +16,7 @@ timezone: Africa/Cairo
 
 title: Mohamed Emary # the main title
 
-tagline: A site where I share my thoughts and ideas # it will display as the sub-title
+tagline: CS Student & Web developer from Egypt # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   A personal blog about software development, programming, and technology.
