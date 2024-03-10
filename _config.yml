@@ -94,7 +94,6 @@ comments:
   utterances:
     repo: MohamedEmary/mohamedemary.github.io # <gh-username>/<repo>
     issue_term: pathname # < url | pathname | title | ...>
-    label: "💬 Comments"
   giscus:
     repo: # <gh-username>/<repo>
     repo_id:
